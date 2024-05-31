@@ -16,7 +16,7 @@ I have constructed a comprehensive dataset of lung images, incorporating both he
 
 A CNN model was designed and trained from scratch to classify the images, leveraging its powerful feature extraction capabilities. Simultaneously, a Transfer Learning approach was implemented using pre-trained models like VGG16, ResNet50, and InceptionV3, which were fine-tuned on our specific dataset. This approach leverages the knowledge from large-scale image classification tasks to improve performance on our lung cancer detection task.
 
-Prpject Methodology:
+Project Methodology:
 
 
 ![Screenshot 2024-05-14 201658](https://github.com/Anandaroop-Maitra/Lung-Cancer-Detection-Using-Machine-Learning/assets/62735860/d415cad4-0bfe-4960-8521-48dab7a57f13)
